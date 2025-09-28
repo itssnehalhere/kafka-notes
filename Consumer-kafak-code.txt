@@ -180,4 +180,5 @@ public class KafkaMessageController {
         return kafkaConsumerService.getLatestMessage();
     }
 }
+.
 
